@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b3309e5-bdb4-412d-9daf-a565cba9426e/deploy-status)](https://app.netlify.com/sites/dark-side-association/deploys)
 # Hugo Learn Theme
 [![Netlify Status](https://api.netlify.com/api/v1/badges/279169b1-d1b2-437b-91e5-89ed724c7f20/deploy-status)](https://app.netlify.com/sites/hackeridiot/deploys)
 This repository contains a theme for [Hugo](https://gohugo.io/), based on great [Grav Learn Theme](https://learn.getgrav.org/).
