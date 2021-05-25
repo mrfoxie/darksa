@@ -26,7 +26,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Let's buold a robot together."
+title = "Let's build a robot together."
 weight = 1
 languageName = "English"
 landingPageURL = "/en"
