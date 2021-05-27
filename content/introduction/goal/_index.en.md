@@ -2,15 +2,12 @@
 title = "Goal"
 date = 2021-05-25T15:55:16Z
 weight = 10
-1chapter = true
-pre = "<b>B. </b>"
+chapter = true
+pre = "<b>1. </b>"
 +++
 
-### Goal B
 
 ![ROS.org](http://wiki.ros.org/custom/images/ros_org.png)
-
-## Goals
 
 A lot of people ask, "How is ROS different from X?" where X is another robotics software platform. It's a difficult question to answer as the goal of ROS is *not* to be a framework with the most features. Instead, the primary goal of ROS is to support code *reuse* in robotics research and development. ROS is a distributed framework of processes (aka *Nodes*) that enables executables to be individually designed and loosely coupled at runtime. These processes can be grouped into *Packages* and *Stacks*, which can be easily shared and distributed. ROS also supports a federated system of code *Repositories* that enable collaboration to be distributed as well. This design, from the filesystem level to the community level, enables independent decisions about development and implementation, but all can be brought together with ROS infrastructure tools.
 

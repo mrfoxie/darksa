@@ -3,7 +3,7 @@ title = "OS"
 date = 2021-05-25T15:58:47Z
 weight = 15
 chapter = true
-pre = "<b>C. </b>"
+pre = "<b>2. </b>"
 +++
 
 ### OS C
